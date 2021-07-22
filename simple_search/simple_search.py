@@ -1,3 +1,6 @@
+# Program: Simple Search
+# It does not need a sorted array as input
+# It runs in O(n)
 
 def simple_search(arr, item):
 # Inputs: arr (1xN)

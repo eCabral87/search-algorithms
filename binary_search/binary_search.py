@@ -1,3 +1,6 @@
+# Program: Binary Search
+# It needs a sorted array as input
+# It runs in O(log2(n))
 
 def binary_search(arr, val_to_find):
 # Inputs: arr (1xN)
